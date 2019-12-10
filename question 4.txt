@@ -1,0 +1,3 @@
+for Python "scipy.optimize.bisect"
+
+for c "gsl_root_fsolver_bisection"
